@@ -8,5 +8,12 @@
   bottom: 0;
   top: 50%;
 }
-
 /* banner end */
+/* footer start */
+.social-icon i {
+  padding: 10px;
+  font-size: 1rem;
+  background-color: #242424;
+  border-radius: 50%;
+}
+/* footer end */
