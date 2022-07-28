@@ -1,5 +1,5 @@
 /* banner start */
-.carousel-item:after {
+/* .carousel-item:after {
   content: "";
   display: block;
   position: absolute;
@@ -8,6 +8,9 @@
   left: 0;
   right: 0;
   background: rgba(0, 0, 0, 0.5);
+} */
+.carousel-item img {
+  filter: brightness(60%);
 }
 .carousel-caption {
   z-index: 999;
