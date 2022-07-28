@@ -1,3 +1,20 @@
+@media screen and (max-width: 430px) {
+  .carousel-caption h1 {
+    font-size: 6vw;
+  }
+  .carousel-caption p {
+    font-size: 3.5vw;
+    margin-bottom: 0.5rem;
+  }
+  .carousel-caption button {
+    font-size: 3vw;
+  }
+  .carousel-item img {
+    height: 200px;
+    object-fit: cover;
+  }
+}
+
 @media screen and (min-width: 576px) and (max-width: 991px) {
   .card-title-fs-custom {
     font-size: 1.5rem;

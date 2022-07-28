@@ -3,7 +3,6 @@
   filter: brightness(60%);
 }
 .carousel-caption {
-  z-index: 999;
   transform: translateY(-50%);
   bottom: 0;
   top: 50%;
