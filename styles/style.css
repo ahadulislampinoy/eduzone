@@ -8,6 +8,11 @@
   top: 50%;
 }
 /* banner end */
+/* explore start */
+.explore-content {
+  background-color: #f4fafd;
+}
+/* explore end*/
 /* footer start */
 .social-icon i {
   padding: 10px;
